@@ -1,0 +1,18 @@
+{
+  "name": "svg-relative-to-absolute-paths",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sfarthin/svg-relative-to-absolute-paths",
+  "authors": [
+    "Steven Farthing <sfarthin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
